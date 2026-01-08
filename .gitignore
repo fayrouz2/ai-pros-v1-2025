@@ -222,3 +222,4 @@ __marimo__/
 cifar-100-python.tar.gz
 cifar_100/
 *.tar.gz
+*.zip
